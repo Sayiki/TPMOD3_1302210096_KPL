@@ -20,7 +20,7 @@ namespace TPMOD3_1302210096_KPL
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label2.Text = "Halo " + textBox2.Text;
+            label2.Text = "Hello" + textBox2.Text;
         }
     }
 }
